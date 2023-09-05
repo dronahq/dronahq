@@ -2,9 +2,7 @@
   DronaHQ
 </h1>
 
-<h3 align="left">
 DronaHQ is a developer toolset to build internal tools, custom portals, and digital journeys at 10X speed. Offering pre-built UI components(Table grid, button, text input, advanced dropdowns, charts, etc.), ready connectors(MySQL, MongoDB, PostgreSQL & more) action & automation blocks for visual development of web & mobile applications. Heavy-lifting the app development & deployment tasks with user management, SSO, security, environments, version history, audit logs, and analytics.
-</h3>
 
 <p align="center">
   <img alt="DronaHQ" src="./resources/drona.png">
